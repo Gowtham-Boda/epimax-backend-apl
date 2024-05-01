@@ -10,7 +10,7 @@
     "start": "node index.js",
     "server": "nodemon index.js"
   },
-  "author": "Teja Juthuga",
+  "author": "Gowtham Boda",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
